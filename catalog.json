@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "generatedAt": "2026-11-15T01:44:32.989Z",
+  "generatedAt": "2026-11-15T01:57:03.522Z",
   "extensions": [
     {
       "id": "color-font-kit",
@@ -64,8 +64,8 @@
       "screenshots": [],
       "package": {
         "url": "https://raw.githubusercontent.com/niohexdec/NIO-Extensions/main/packages/nio-clonix-1.0.0.nioext",
-        "sha256": "d4c883061901419a5b2b0e82ccf7b148d975e3051eb38eff0fd56fedcea04f96",
-        "size": 22342
+        "sha256": "526bc2a69eae617decfb8b42e5c93b13bdf6401237fb040ab8f3bbfdf64ddc98",
+        "size": 22407
       }
     },
     {
